@@ -324,7 +324,7 @@ moderate,0.45,3.29,9.9,0.51,2,moderate
 moderate,0.57,3.36,10.8,0.62,2.6,moderate
 moderate,0.685,3.31,9.55,0.65,1.6,moderate
 moderate,0.67,3.42,11.1,0.72,2.2,moderate
-moderate,0.3,3.44,11.9,0.82,2,moderate
+good,0.3,3.44,11.9,0.82,2,moderate
 moderate,0.24,3.22,10.9,0.94,5.1,moderate
 moderate,0.51,3.54,10.7,0.93,2.1,moderate
 moderate,0.47,3.56,10.6,0.73,2.4,moderate
@@ -354,10 +354,10 @@ moderate,0.43,3.15,10.4,0.85,3.1,good
 moderate,0.615,3.07,10,0.73,5.8,good
 moderate,0.4,3.27,11.7,0.82,6.7,good
 moderate,0.56,3.28,11.8,0.73,2.4,good
-moderate,0.41,3.34,13.3,0.79,2.5,good
+good,0.41,3.34,13.3,0.79,2.5,good
 good,0.4,3.32,13.4,0.9,2.6,good
-good,0.44,3.17,12,0.85,6.55,good
-moderate,0.26,3.18,10.9,1.04,1.9,good
+moderate,0.44,3.17,12,0.85,6.55,good
+good,0.26,3.18,10.9,1.04,1.9,good
 moderate,0.29,3.05,10.5,0.74,2.6,good
 good,0.42,3.24,12.1,0.77,2.65,good
 moderate,0.21,3.23,11.1,0.58,1.6,good
@@ -394,7 +394,7 @@ good,0.47,3.54,13.5666666666667,0.88,2.2,good
 moderate,0.56,3.42,11.7,0.62,2.4,good
 moderate,0.32,3.29,11.6,0.8,2.4,good
 moderate,0.85,3.56,12.9,0.82,1.4,good
-good,0.62,3.22,13.4,0.69,5.2,good
+moderate,0.62,3.22,13.4,0.69,5.2,good
 good,0.3,3.15,11.7,0.92,2.8,good
 moderate,0.35,3.15,11,0.65,2.6,good
 moderate,0.42,3.35,11.7,0.69,1.8,good
